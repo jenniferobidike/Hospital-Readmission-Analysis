@@ -4,7 +4,7 @@
 This project analyzes 30-day hospital readmissions using SQL and Python to identify key clinical and operational risk drivers.
 
 ## Dataset
-- Source: Kaggle – Hospital Readmission Prediction (Synthetic)
+- Source: Kaggle – Hospital Readmission Prediction
 - Size: 30,000 patient records
 - Target variable: 30-day readmission
 

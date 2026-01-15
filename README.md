@@ -32,4 +32,4 @@ All exploratory analysis visuals are saved in the `outputs/` folder:
 - Add predictive modeling for readmission risk
 
 ## Author
-Your Name
+Jennifer Obidike

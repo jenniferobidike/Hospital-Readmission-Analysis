@@ -27,9 +27,9 @@ All exploratory analysis visuals are saved in the `outputs/` folder:
 - Readmission rate by discharge destination
 - Readmission rate by diabetes status
 
-## Next Steps
-- Build executive dashboards in Power BI
-- Add predictive modeling for readmission risk
+## SQL Exploratory Data Analysis
+SQL Server was used to validate key findings and support dashboard metrics. 
+Queries focused on readmission rates, length of stay comparisons, discharge destination risk, and clinical condition impacts.
 
 ## Author
 Jennifer Obidike

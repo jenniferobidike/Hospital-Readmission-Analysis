@@ -74,7 +74,7 @@ The dashboard is structured into three focused pages.
 
 ### 🔹 Page 3: Patient Segmentation & Root Cause Analysis
 
-![Patient Segmentation](powerbi/powerbi patient_segmentation.png)
+![Patient Segmentation](powerbi/powerbi_patient_segmentation.png)
 
 **Highlights**
 - **Discharge destination** is the strongest driver of readmission risk

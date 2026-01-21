@@ -1,5 +1,10 @@
 # Hospital Readmission Risk Analysis
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Data%20Analysis-blue)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20EDA-teal)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-success)
+
 ## Overview
 This project analyzes 30-day hospital readmissions using SQL and Python to identify key clinical and operational risk drivers.
 
